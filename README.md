@@ -4,5 +4,5 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Kacper Komorowski       | `{ACAA8DCC-F054-4261-8CDC-8583E50F8B28}` |
+| Kacper Komorowski       | `{0AE44AE3-EB0F-4FF5-AC4E-51986C032CED}` |
 |                         |                                          |
